@@ -19,8 +19,6 @@ Here are some ideas to get you started:
  
 <h1>Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
-![Header](https://raw.githubusercontent.com/CalliStef/CalliStef/main/profile-banner.png
- "Header")
  
 Welcome to my page! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />
 <br>
