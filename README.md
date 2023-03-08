@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 <h1>Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
 
-![Header](https://raw.githubusercontent.com/CalliStef/CalliStef/main/profile-header.png
- "Header")
+[![Header](https://raw.githubusercontent.com/CalliStef/CalliStef/main/profile-header.png
+ "Header")](https://www.callista-stefanie.com/)
+ 
+ > ☝️☝️ click on the banner to check out my portfolio website :))
 
  
-Welcome to my page! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />
+**Welcome to my page!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />
 <br>
 I'm Stefanie, a Full-Stack web developer from <b>:indonesia: Jakarta, Indonesia</b>, currently living in <b>:canada: Vancouver, Canada</b>. My pronouns are she/her. I've started my programming journey since 2021. I love to build interfaces that will showcase my love for web development as well as designing my work. I value in continous learning, experience, collaboration, and quality. 
 
